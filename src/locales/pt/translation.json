@@ -1,0 +1,160 @@
+{
+  "nav": {
+    "logo": "ColdVault",
+    "cta": "Obter o Guia"
+  },
+  "hero": {
+    "headline": "Proteja seu Bitcoin. Para sempre.",
+    "subheadline": "A maioria das pessoas vai perder seu Bitcoin para exchanges, hacks ou erros próprios. Este guia ensina o Método ColdVault — uma estratégia multisig de 3 locais, testada em batalha, para que seu Bitcoin sobreviva a tudo.",
+    "cta_primary": "Obter o Guia — $19",
+    "cta_btc": "Pagar com Bitcoin — $16,15 (15% de desconto)",
+    "no_exchange": "Sem exchange. Sem custodiante. Só você."
+  },
+  "problem": {
+    "title": "A Maioria das Pessoas Está a Um Evento de Perder Tudo",
+    "subtitle": "Não são apenas hackers. São as formas mundanas e cotidianas pelas quais o Bitcoin desaparece.",
+    "items": [
+      {
+        "icon": "🏦",
+        "title": "Colapso de Exchange",
+        "desc": "FTX, Mt. Gox, Celsius. Bilhões perdidos da noite para o dia. Se está numa exchange, não é seu."
+      },
+      {
+        "icon": "🔑",
+        "title": "Ponto Único de Falha",
+        "desc": "Uma hardware wallet. Uma frase semente em papel. Um incêndio ou roubo e tudo se vai."
+      },
+      {
+        "icon": "⚰️",
+        "title": "Perdido com o Tempo",
+        "desc": "HDs morrem. Papel se deteriora. Pessoas esquecem. Seu Bitcoin vira pó sem um sistema robusto."
+      },
+      {
+        "icon": "🎣",
+        "title": "Phishing & Engenharia Social",
+        "desc": "Um e-mail falso, um suporte falso. Se tudo depende de um segredo, um atacante só precisa encontrá-lo uma vez."
+      }
+    ]
+  },
+  "method": {
+    "title": "O Método ColdVault",
+    "subtitle": "Um cofre multisig de 3 locais, construído para sobreviver a desastres, roubos e ao tempo — gerenciado com Nunchuk.",
+    "locations": [
+      {
+        "icon": "👤",
+        "title": "Com Você",
+        "desc": "Hardware wallet no seu bolso. A primeira chave, sempre com você."
+      },
+      {
+        "icon": "🏠",
+        "title": "Cofre em Casa",
+        "desc": "Segunda chave num cofre residencial à prova de fogo. Fisicamente separada da primeira."
+      },
+      {
+        "icon": "🏛️",
+        "title": "Cofre Bancário",
+        "desc": "Terceira chave num cofre bancário. ~$70/ano pela sua tranquilidade. Separação geográfica de tudo o mais."
+      }
+    ],
+    "nunchuk_title": "Gerenciado com Nunchuk",
+    "nunchuk_desc": "O Nunchuk (nunchuk.io) é o único app de carteira multisig construído especificamente para custódia colaborativa. Open-source, sem nuvem, sem custodiante — só você e suas chaves. O guia te acompanha em cada etapa da configuração."
+  },
+  "whats_inside": {
+    "title": "O Que Está Dentro do Guia",
+    "subtitle": "Um PDF prático e passo a passo — sem enrolação, sem teoria.",
+    "chapters": [
+      {
+        "num": "01",
+        "title": "Por Que Autocustódia",
+        "desc": "O argumento para assumir o controle — com exemplos reais do que acontece quando você não o faz."
+      },
+      {
+        "num": "02",
+        "title": "Escolhendo seu Hardware",
+        "desc": "Comparação de hardware wallets, o que comprar, o que evitar e onde comprar com segurança."
+      },
+      {
+        "num": "03",
+        "title": "Configurando o Nunchuk",
+        "desc": "Configuração multisig no Nunchuk passo a passo. Com capturas de tela. Sem suposições."
+      },
+      {
+        "num": "04",
+        "title": "A Estratégia de 3 Locais",
+        "desc": "Exatamente como dividir e armazenar suas chaves. Configuração física, rotulagem e documentação."
+      },
+      {
+        "num": "05",
+        "title": "Endurecimento de Dispositivos",
+        "desc": "Protegendo os dispositivos envolvidos. Air-gapping, escolha de SO e modelagem de ameaças."
+      },
+      {
+        "num": "06",
+        "title": "Herança & Recuperação",
+        "desc": "Como seus herdeiros acessam seu Bitcoin se você não puder. O plano que você deve ter."
+      }
+    ]
+  },
+  "pricing": {
+    "title": "Obter o Guia",
+    "subtitle": "Compra única. Seu para sempre. Sem assinatura.",
+    "card_title": "Guia PDF ColdVault",
+    "card_desc": "Download imediato em PDF. Guia completo de 6 capítulos. Cobre seleção de hardware, configuração do Nunchuk, armazenamento de chaves em 3 locais, endurecimento de dispositivos e planejamento de herança.",
+    "includes": "O que está incluído:",
+    "features": [
+      "Download instantâneo em PDF",
+      "6 capítulos abrangentes",
+      "Tutorial de configuração do Nunchuk",
+      "Planta de armazenamento de chaves em 3 locais",
+      "Checklist de endurecimento de dispositivos",
+      "Modelo de planejamento de herança",
+      "Atualizações vitalícias"
+    ],
+    "price_usd": "$19",
+    "price_usd_label": "USD — Pagar com Cartão",
+    "cta_card": "Comprar Agora — $19",
+    "price_btc": "$16,15",
+    "price_btc_label": "BTC — 15% de desconto Bitcoin",
+    "cta_btc": "Pagar com Bitcoin",
+    "btc_note": "BTCPay Server. Sem KYC. Sem conta.",
+    "guarantee": "Garantia de devolução em 30 dias. Sem perguntas."
+  },
+  "faq": {
+    "title": "Perguntas Frequentes",
+    "items": [
+      {
+        "q": "Preciso ser técnico para usar este guia?",
+        "a": "Não. O guia foi escrito para qualquer pessoa que possui Bitcoin mas nunca configurou autocustódia. Cada etapa tem capturas de tela e explicações em linguagem simples."
+      },
+      {
+        "q": "O que é o Nunchuk e por que você o recomenda?",
+        "a": "O Nunchuk é um app gratuito e open-source de carteira multisig disponível no iOS, Android, Mac, Windows e Linux. É o único app consumer construído do zero para autocustódia multisig. Sem nuvem, sem custodiante — suas chaves ficam nos seus dispositivos."
+      },
+      {
+        "q": "Com quais hardware wallets isso funciona?",
+        "a": "O guia cobre as opções mais populares: Coldcard, Trezor e Ledger. O Nunchuk suporta todas as principais hardware wallets, então você pode misturar marcas nos três locais."
+      },
+      {
+        "q": "E se eu perder uma das três chaves?",
+        "a": "Essa é a beleza do multisig. Uma configuração 2-de-3 significa que você precisa de quaisquer duas das três chaves para assinar uma transação. Perdeu uma? Você ainda tem acesso total e tempo para trocar as chaves."
+      },
+      {
+        "q": "O guia está disponível em outros idiomas?",
+        "a": "Atualmente apenas em inglês. As edições em português e espanhol estão em andamento."
+      },
+      {
+        "q": "Como recebo atualizações?",
+        "a": "Atualizações vitalícias estão incluídas. Quando o guia for atualizado, você receberá a nova versão no mesmo link de download."
+      }
+    ]
+  },
+  "footer": {
+    "tagline": "Proteja seu Bitcoin. Para sempre.",
+    "links": {
+      "privacy": "Política de Privacidade",
+      "contact": "Contato"
+    },
+    "copyright": "© 2026 ColdVault. Todos os direitos reservados.",
+    "disclaimer": "Este guia é para fins educacionais. Não é conselho financeiro."
+  }
+}

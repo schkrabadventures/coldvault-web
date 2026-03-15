@@ -1,0 +1,160 @@
+{
+  "nav": {
+    "logo": "ColdVault",
+    "cta": "Get the Guide"
+  },
+  "hero": {
+    "headline": "Secure your Bitcoin. Forever.",
+    "subheadline": "Most people will lose their Bitcoin to exchanges, hacks, or their own mistakes. This guide teaches you the ColdVault Method — a battle-tested 3-location multisig strategy so your Bitcoin survives everything.",
+    "cta_primary": "Get the Guide — $19",
+    "cta_btc": "Pay with Bitcoin — $16.15 (15% off)",
+    "no_exchange": "No exchange. No custodian. Only you."
+  },
+  "problem": {
+    "title": "Most People Are One Event Away From Losing Everything",
+    "subtitle": "It's not just hackers. It's the boring, everyday ways Bitcoin disappears.",
+    "items": [
+      {
+        "icon": "🏦",
+        "title": "Exchange Collapse",
+        "desc": "FTX, Mt. Gox, Celsius. Billions gone overnight. If it's on an exchange, it's not yours."
+      },
+      {
+        "icon": "🔑",
+        "title": "Single Point of Failure",
+        "desc": "One hardware wallet. One seed phrase on paper. One house fire or burglary and it's all gone."
+      },
+      {
+        "icon": "⚰️",
+        "title": "Lost to Time",
+        "desc": "Hard drives die. Paper degrades. People forget. Your Bitcoin becomes dust without a robust system."
+      },
+      {
+        "icon": "🎣",
+        "title": "Phishing & Social Engineering",
+        "desc": "One fake email, one fake support agent. If your setup depends on a single secret, attackers only need to find it once."
+      }
+    ]
+  },
+  "method": {
+    "title": "The ColdVault Method",
+    "subtitle": "A 3-location multisig vault built to survive disasters, theft, and time — managed with Nunchuk.",
+    "locations": [
+      {
+        "icon": "👤",
+        "title": "On Your Person",
+        "desc": "Hardware wallet in your daily carry. The first key, always with you."
+      },
+      {
+        "icon": "🏠",
+        "title": "Home Safe",
+        "desc": "Second key in a fireproof home safe. Physically separate from the first."
+      },
+      {
+        "icon": "🏛️",
+        "title": "Bank Safe Deposit Box",
+        "desc": "Third key in a bank vault. ~$70/yr for peace of mind. Geographic separation from everything else."
+      }
+    ],
+    "nunchuk_title": "Managed with Nunchuk",
+    "nunchuk_desc": "Nunchuk (nunchuk.io) is the only multisig wallet app built specifically for collaborative custody. Open-source, no cloud, no custodian — just you and your keys. The guide walks you through every step of setup."
+  },
+  "whats_inside": {
+    "title": "What's Inside the Guide",
+    "subtitle": "A practical, step-by-step PDF — no fluff, no theory.",
+    "chapters": [
+      {
+        "num": "01",
+        "title": "Why Self-Custody",
+        "desc": "The case for taking control — with real examples of what happens when you don't."
+      },
+      {
+        "num": "02",
+        "title": "Choosing Your Hardware",
+        "desc": "Hardware wallet comparison, what to buy, what to avoid, and where to buy safely."
+      },
+      {
+        "num": "03",
+        "title": "Setting Up Nunchuk",
+        "desc": "Step-by-step Nunchuk multisig setup. Screenshots included. Zero assumptions."
+      },
+      {
+        "num": "04",
+        "title": "The 3-Location Strategy",
+        "desc": "Exactly how to split and store your keys. Physical setup, labeling, and documentation."
+      },
+      {
+        "num": "05",
+        "title": "Device Hardening",
+        "desc": "Securing the devices involved. Air-gapping, OS choices, and threat modeling."
+      },
+      {
+        "num": "06",
+        "title": "Inheritance & Recovery",
+        "desc": "How your heirs access your Bitcoin if you can't. The plan you must have."
+      }
+    ]
+  },
+  "pricing": {
+    "title": "Get the Guide",
+    "subtitle": "One-time purchase. Yours forever. No subscription.",
+    "card_title": "ColdVault PDF Guide",
+    "card_desc": "Immediate PDF download. Full 6-chapter guide. Covers hardware selection, Nunchuk setup, 3-location key storage, device hardening, and inheritance planning.",
+    "includes": "What's included:",
+    "features": [
+      "Instant PDF download",
+      "6 comprehensive chapters",
+      "Nunchuk setup walkthrough",
+      "3-location key storage blueprint",
+      "Device hardening checklist",
+      "Inheritance planning template",
+      "Lifetime updates"
+    ],
+    "price_usd": "$19",
+    "price_usd_label": "USD — Pay by Card",
+    "cta_card": "Buy Now — $19",
+    "price_btc": "$16.15",
+    "price_btc_label": "BTC — 15% Bitcoin discount",
+    "cta_btc": "Pay with Bitcoin",
+    "btc_note": "BTCPay Server. No KYC. No account.",
+    "guarantee": "30-day money-back guarantee. No questions asked."
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "items": [
+      {
+        "q": "Do I need to be technical to use this guide?",
+        "a": "No. The guide is written for anyone who owns Bitcoin but has never set up self-custody before. Every step has screenshots and plain-language explanations."
+      },
+      {
+        "q": "What is Nunchuk and why do you recommend it?",
+        "a": "Nunchuk is a free, open-source multisig wallet app available on iOS, Android, Mac, Windows, and Linux. It's the only consumer app built from the ground up for multisig self-custody. No cloud, no custodian — your keys stay on your devices."
+      },
+      {
+        "q": "Which hardware wallets does this work with?",
+        "a": "The guide covers the most popular options: Coldcard, Trezor, and Ledger. Nunchuk supports all major hardware wallets, so you can mix and match brands across your three locations."
+      },
+      {
+        "q": "What if I lose one of the three keys?",
+        "a": "That's the beauty of multisig. A 2-of-3 setup means you need any two of the three keys to sign a transaction. Lose one? You still have full access and time to rotate keys."
+      },
+      {
+        "q": "Is the guide available in other languages?",
+        "a": "Currently English only. Portuguese and Spanish editions are in progress."
+      },
+      {
+        "q": "How do I get updates?",
+        "a": "Lifetime updates are included. When the guide is updated, you'll get the new version at the same download link."
+      }
+    ]
+  },
+  "footer": {
+    "tagline": "Secure your Bitcoin. Forever.",
+    "links": {
+      "privacy": "Privacy Policy",
+      "contact": "Contact"
+    },
+    "copyright": "© 2026 ColdVault. All rights reserved.",
+    "disclaimer": "This guide is for educational purposes. Not financial advice."
+  }
+}
